@@ -3,4 +3,4 @@
 
 
 ## Project Preview
-<img src="https://github.com/rehan606/Phone-Hunter-/blob/main/preview.png?raw=true" alt="" width="400">
+<img src="https://github.com/rehan606/Phone-Hunter-/blob/main/preview.png?raw=true" alt="" align="center" width="600">
